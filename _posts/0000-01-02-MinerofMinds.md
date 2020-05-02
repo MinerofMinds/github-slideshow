@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+Leading the dumb to the light
 Ude the left arrow to go back!
